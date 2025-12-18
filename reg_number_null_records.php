@@ -1,5 +1,6 @@
 <?php
 
+// CONDITION SARE ADDEC. 18122025.
 ini_set('max_execution_time', '0'); // for infinite time of execution 
 
 
